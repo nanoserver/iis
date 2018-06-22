@@ -1,6 +1,6 @@
 # Nano Server - IIS
 
-FROM microsoft/nanoserver
+FROM microsoft/nanoserver:10.0.14393.2312
 
 MAINTAINER nanoserver.es@gmail.com
 
